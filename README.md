@@ -1,4 +1,5 @@
 # 🛒 Customer Segmentation: A Strategic Recovery Plan
+[![Kaggle](https://img.shields.io/badge/Kaggle-View_Notebook-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/alok158/alok158-customer-retention-analysis-using-rfm-k-me?scriptVersionId=281874381)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Strategy-Ready-green)
